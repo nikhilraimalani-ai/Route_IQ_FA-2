@@ -18,7 +18,7 @@ st.set_page_config(
 )
 
 ROOT = Path(__file__).parent
-DATA_PATH = ROOT / "data" / "last_mile_delivery.csv"
+DATA_PATH = ROOT / "last_mile_delivery.csv"
 NAVY = "#111827"
 INK = "#17212F"
 MUTED = "#657184"
